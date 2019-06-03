@@ -2,7 +2,7 @@
 
 HDSG:
   1. Clone thư mục xampp
-  2. Chép đè vào xampp
+  2. Chép đè vào thư mục xampp *note chạy trên xampp v3.2.2
   3. Chạy command line
       "php bin/magento setup:static-content:deploy"
   4. Truy cập "localhost/shopmagento"   để vào trang chủ của web bán hàng
